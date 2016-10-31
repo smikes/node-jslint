@@ -46,7 +46,7 @@
     "mocha": "^3.0.0"
   },
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">= 4"
   },
   "files": [
     "man/jslint.1",
