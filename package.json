@@ -36,7 +36,7 @@
   "dependencies": {
     "exit": "~0.1.2",
     "glob": "^7.0.3",
-    "nopt": "~3.0.1",
+    "nopt": "~4.0.0",
     "readable-stream": "~2.1.2"
   },
   "devDependencies": {
